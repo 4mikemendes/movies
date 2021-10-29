@@ -23,12 +23,12 @@ samll {
 }
 
 .App {
-  /* text-align: center; */
+  text-align: center;
   margin: 0 auto;
   max-width: 1000px;
   padding: 40px;
 }
 
 .title {
-  font-size: 4.4erm;
+  font-size: 4.4rem;
 }
